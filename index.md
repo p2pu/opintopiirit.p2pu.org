@@ -1,13 +1,15 @@
 ---
 layout: index
-header_text: P2PU & the Ministry of Magic
+header_text: P2PU & Suomen eOppimiskeskus ry
 header_video: https://www.youtube.com/embed/bQqmIS7WQa8
-hero: |
-  ## Learning circles are coming to Hogwarts!
+hero: 'Opintopiirit saapuvat Suomeen!
 
-  Join your neighbors at the library to learn something together. Learning circles meet weekly for 6-8 weeks, and are free to join.
-search_title: Learning circles at Hogwarts
-image_attribution: "image CC-BY-SA [Breakfast221](https://commons.wikimedia.org/wiki/User:Breakfast221)"
+  Tervetuloa opiskelemaan opintopiiriin (Learning Circle) yhdessä muiden samasta asiasta
+  kiinnostuneiden kanssa - verkossa ja kasvokkain! Opintopiiri kokoontuu yhteisesti
+  sovitun aikataulun mukaan (noin kerran viikossa muutaman viikon ajan). Opiskelu
+  on maksutonta.'
+search_title: Opintopiirit Suomessa
+image_attribution: ''
 bundles:
 - style
 - index

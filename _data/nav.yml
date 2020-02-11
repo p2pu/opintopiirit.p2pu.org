@@ -1,12 +1,10 @@
 topnav:
 - url: /
-  title: Home
+  title: Etusivu
 - url: /about
-  title: About
+  title: Meistä
 - url: /facilitate
-  title: Facilitate
-
+  title: Ohjaa opintopiiriä
 org:
-    url: https://hog.warts/
-    logo_url: /assets/img/team-logo.png
-
+  url: https://hog.warts/
+  logo_url: /assets/img/team-logo.png

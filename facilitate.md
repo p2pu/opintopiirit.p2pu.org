@@ -1,21 +1,25 @@
 ---
-title: Facilitate
-welcome: |
-    (Partner name) is bringing learning circles to (city/country) in 2020! 
+title: Ohjaa opintopiiriä
+welcome: 'Suomen eOppimiskeskus ry tuo opintopiirit Suomeen vuonna 2020!
 
-    Learning circles are free, interest-driven study groups that are led by a facilitator. The facilitator does not have to be an expert in the subject, so with a little practice and training, anybody can facilitate.
 
-    If you’re interested in participating, explore the resources below and contact us to get involved!
-resources_title: Facilitator resources
+  Opintopiirit ovat ryhmiä, joissa opiskellaan yhdessä, ja joissa opiskeltavat aiheet
+  valikoituvat osallistujien kiinnostuksen mukaan. Opintopiirillä on ohjaaja, jonka
+  ei kuitenkaan tarvitse olla aiheen asiantuntija tai opettaja. Pienellä harjoituksella
+  kuka tahansa voi toimia opintopiirin ohjaajana.
+
+
+  Jos kiinnostuit, tutustu alla oleviin materiaaleihin ja ota yhteyttä!'
+resources_title: Ohjaajien materiaalipankki
 resources:
-- title: Courses for learning circles
+- title: Kurssit
   image: /assets/img/courses.gif
   url: /courses
-- title: Facilitator forum
+- title: Ohjaajien keskustelualue
   image: /assets/img/discourse.png
   url: https://community.p2pu.org
   tag: forum
-- title: Other facilitator resources (in English)
+- title: Lisämateriaaleja ohjaajille (englanniksi)
   image: /assets/img/p2pu.jpeg
   url: https://www.p2pu.org/en/facilitate
 layout: facilitate

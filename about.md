@@ -1,52 +1,55 @@
 ---
-title: About
-about: |
-    Learning circles were started by Peer 2 Peer University (P2PU) and Chicago Public Library in 2015. Since then, this model of peer learning has spread to libraries and community centers across North America, East Africa, and Europe. This year, The Ministry of Magic is proud to partner with P2PU to bring learning circles to Hogwarts.
-faq_title: Frequently asked questions
+title: Meistä
+about: Opintopiireillä on pitkä historia Suomessa. Suomen eOppimiskeskus on mukana
+  Erasmus+ rahoitteisessa projektissa, jossa päivitetään opintopiiritoimintaa digiaikaan
+  yhdessä amerikkalaisen Peer 2 Peer Universityn (P2PU) kanssa.
+faq_title: Usein kysytyt kysymykset
 faq:
-- q: What is a learning circle?
-  a: |
-        A learning circle is a group of people who meet to learn something together. Learning circles are:
-        - Open to the public
-        - Free for participants
-        - Recurring (generally between 6-8 times)
-        
-        Additionally, learning circles are led by a facilitator, rather than a teacher. This means that the person who is organizing your learning circle is not an expert in the subject that you are learning. They are there to help guide the group through the course and ensure that the meeting space is ready each week.
-
-- q: What learning materials can be used in learning circles?
-  a: |
-    Most learning circles use a free, online course as the basis of study. While P2PU creates some courses, the vast majority of materials come from other organizations around the web. You are welcome to use any course you would like for a learning circle, so long as it is free for participants and not in violation of the terms of service of the course provider. A complete list of courses currently being used by learning circle facilitators is available at https://www.p2pu.org/courses/
-
-- q: What personal information do I need to provide to participate?
-  a: |
-    Learning circle participants do not need to create an account with Peer 2 Peer University. You can sign up for a learning circle with your name and phone number and/or email address. This information is only used by your facilitator to contact you. If you would like to create a learning circle, then you need to create a P2PU account. Additional questions related to user privacy can be answered by contacting support@p2pu.org.
-
-- q: Does it cost money to participate in a learning circle?
-  a: No, learning circles are free to participate in.
-
-
-- q: Do I get any certificate at the end of the learning circle?
-  a: P2PU is not a university and does not offer any accredited degree certificates. Some of the online courses that are used in learning circles have degree and/or certificates, but many of these are not free. If you would like a certificate demonstrating the completion of your learning circle, this is possible if you speak with your facilitator.
-
-- q: What is Peer 2 Peer University?
-  a: P2PU is a 501c3 non-profit organization registered in California in the United States, with team members in the US, Canada, and South Africa. The mission of the organization is to create equitable, empowering, and liberating alternatives to mainstream higher education. The majority of funding for P2PU comes from philanthropic and public sources including Institute of Museum and Library Services, Open Society Foundations, Siegel Family Endowment, and Knight Foundation. P2PU also accepts donations and offers a variety of services to organizations that are looking to develop thriving nonformal education communities.
-
-- q: Who funds this project?
-  a: |
-    This project is supported by the European Union Erasmus+ program. “Learning circles in libraries is a 3-year project (2018-2021) led by Fundacja Rozwoju Społeczeństwa Informacyjnego in Poland, with additional partners in Germany (Stadtbibliothek Kőln), Romania (Fundatia Progress), Portugal (Biblioteca Lucio Craveiro da Silva), and Finland (Suomen eOppimiskeskus ry).
-
-    The aim of the project is to facilitate access to useful online learning resources for adults using the learning circle methodology developed by P2PU. Together we are:
-
-    - Conducting background research in 2018-19, including writing a white paper on adult learning and scanning for high quality online learning resources in each partner’s language.
-    - Translating and adapting the learning circle methodology and software in 2019-20.
-    - Training up to 25 learning circle organizers in 2020, who will lead facilitation workshops in each country.
-    - Running a series of facilitation training workshops 2021, leading to learning circles happening in libraries across each of the partner countries.
-
-
-- q: Can anybody start and facilitate a learning circle?
-  a: |
-    Yes! Learning circles are free to create, all you need is an account with P2PU. We have begun to create some [LANGUAGE]-language resources for facilitators, which you can view and contribute to [here](/facilitate)
-
+- q: Mikä on opintopiiri?
+  a: "Opintopiirit ovat ryhmiä, joissa opiskellaan yhdessä, ja joissa opiskeltavat\
+    \ aiheet valikoituvat osallistujien kiinnostuksen mukaan. \n\nOpintopiirit ovat\
+    \ kaikille avoimia, maksuttomia ja lyhytkestoisia (tapaamisia yleensä 3-8). Opintopiirit\
+    \ kokoontuvat kirjastoissa, kahviloissa tai muissa kaikille avoimissa tiloissa.\n\
+    \nOpintopiirin käytännön järjestelyistä (esimerkiksi tilavarauksista) vastaa opintopiirin\
+    \ ohjaaja.\nOhjaajan ei tarvitse olla järjestämänsä opintopiirin aihealueen asiantuntija\
+    \ tai opettaja vaan kanssaopiskelija."
+- q: Mitä opiskelumateriaaleja opintopiireissä käytetään?
+  a: "Opintopiireissä käytetään ilmaisia ja avoimia verkkokursseja ja muita materiaaleja.\
+    \ \n\nOpintopiirissä voi käyttää mitä tahansa kurssia, kunhan se on osallistujille\
+    \ maksuton eikä riko kurssin tarjoajan palveluehtoja. Lista tällä hetkellä käytössä\
+    \ olevista kursseista löytyy täältä:\nhttps://TEAMURL.p2pu.org/courses/"
+- q: Pitääkö minun antaa henkilökohtaisia tietojani osallistuakseni opintopiiriin?
+  a: "Opintopiireihin ilmoittaudutaan nimellä, puhelinnumerolla ja/tai sähköpostiosoitteella.\
+    \ Nämä tiedot tarvitaan, jotta opintopiirin ohjaaja saa tarvittaessa yhteyden\
+    \ osallistujiin. Muihin tarkoituksiin tietoja ei käytetä.\n\nOpintopiirin ohjaajan\
+    \ tulee lisäksi luoda itselleen käyttäjätili. \n\n\nYksityisyyteen liittyvissä\
+    \ kysymyksissä voit ottaa yhteyttä: support@p2pu.org ja info@eoppimiskeskus.fi"
+- q: Maksaako opiskelu?
+  a: Osallistuminen opintopiireihin on maksutonta.
+- q: Saanko kurssin jälkeen todistuksen / arvosanan?
+  a: Suomen eOppimiskeskus ry ja P2PU eivät myönnä tutkintotodistuksia. Jos haluat
+    osallistumistodistuksen, käänny opintopiirin ohjaajan puoleen.
+- q: Mikä on Peer 2 Peer University?
+  a: P2PU on voittoa tavoittelematon järjestö. Se on rekisteröity Kaliforniassa, Yhdysvalloissa.
+    Se toimii myös Kanadassa ja Etelä-Afrikassa. Järjestön tavoitteena on edistää
+    avoimia koulutusmahdollisuuksia ja koulutuksellista tasa-arvoa.
+- q: Mikä on Suomen eOppimiskeskus ry?
+  a: Suomen eOppimiskeskus ry on valtakunnallinen yhdistys, joka edistää verkko-opetuksen
+    ja digitaalisten opetustoteutusten käyttöä, tutkimusta ja kehittämistyötä yrityksissä,
+    oppilaitoksissa ja muissa organisaatioissa yhdessä yhteistyökumppaneidensa kanssa.
+- q: Mikä on Learning Circles in Libraries -hanke?
+  a: "Learning Circles in Libraries on Erasmus+-rahoitteinen kolmivuotinen hanke (2018-2021),\
+    \ jota toteuttavat Suomen eOppimiskeskus ry:n lisäksi The Information Society\
+    \ Development Foundation, FRSI (hankkeen koordinaattori, Puola), Cologne City\
+    \ Library (Saksa), Progress Foundation (Romania), Braga City Library (Portugali)\
+    \ ja Peer 2 Peer University (Yhdysvallat).\nTavoitteena on parantaa, laajentaa\
+    \ ja tehostaa oppimismahdollisuuksia aikuisoppijoille. Hankkeen avulla tarjotaan\
+    \ hyödyllisiä oppimissisältöjä verkossa sekä toteutetaan opintopiirityöskentelyä\
+    \ verkko-oppimisen tueksi. \nLue lisää: https://eoppimiskeskus.fi/projekti/learning-circles-in-libraries/"
+- q: Kuka voi olla opintopiirin ohjaaja?
+  a: Kuka tahansa voi ohjata opintopiiriä. Opintopiirin perustamista varten tarvitset
+    P2PU:n käyttäjätilin. Olemme aloittaneet suomenkielisen ohjaajamateriaalin tuottamisen.
+    Pääset tutustumaan siihen täältä.
 layout: about
 bundles:
 - style
