@@ -1,7 +1,7 @@
 ---
 layout: index
 header_text: P2PU & Suomen eOppimiskeskus ry
-header_video: https://www.youtube.com/embed/bQqmIS7WQa8
+header_video: https://www.youtube.com/embed/bQqmIS7WQa8?cc_load_policy=1
 hero: 'Opintopiirit saapuvat Suomeen!
 
   Tervetuloa opiskelemaan opintopiiriin (Learning Circle) yhdessä muiden samasta asiasta
