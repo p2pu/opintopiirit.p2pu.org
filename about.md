@@ -17,7 +17,7 @@ faq:
   a: "Opintopiireissä käytetään ilmaisia ja avoimia verkkokursseja ja muita materiaaleja.\
     \ \n\nOpintopiirissä voi käyttää mitä tahansa kurssia, kunhan se on osallistujille\
     \ maksuton eikä riko kurssin tarjoajan palveluehtoja. Lista tällä hetkellä käytössä\
-    \ olevista kursseista löytyy täältä:\nhttps://TEAMURL.p2pu.org/courses/"
+    \ olevista kursseista löytyy täältä:\n[opintopiirit.p2pu.org/courses](https://opintopiirit.p2pu.org/courses)"
 - q: Pitääkö minun antaa henkilökohtaisia tietojani osallistuakseni opintopiiriin?
   a: "Opintopiireihin ilmoittaudutaan nimellä, puhelinnumerolla ja/tai sähköpostiosoitteella.\
     \ Nämä tiedot tarvitaan, jotta opintopiirin ohjaaja saa tarvittaessa yhteyden\
